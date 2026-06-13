@@ -12,6 +12,8 @@ Please provide prominent credit to the author (viexigames@gmail.com, Viexi Games
 ## Features
 A simple shadergraph glass shader that initially attempted to mimic privacy windows from Portal 1, specifically the striped glass and slight 2 channel blur. This evolved into creating sine and noise disturbance patterns and 5 different blur types (portal style 3 channel blur, box blur, gaussian blur, spiral static blur, spiral jitter blur).
 
+This shader was build in Unity v6000.0.75f1 for URP Pipeline.
+
 ## Transparency Rendering Issue
 I am currently stuck on resolving an issue with rendering transparency. If you have expertise in this area, contributions are welcome. Please ensure your contributions align with the project goals, though truthfully these goals are broad. I basically just want to create a cool window shader. I've been trying to do this for weeks and come to realise I have transparency in Unity.
 
